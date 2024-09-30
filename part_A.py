@@ -40,17 +40,7 @@ def std_loops(x):
 
  
 def std_builtin(x):
-    """
-    Compute standard deviation of x using the built-in functions sum()
-    and len().
-    Parameters
-    ----------
-    x: Sequence of numbers
-    Returns
-    -------
-    sd : float
-    Standard deviation of the list of numbers.
-    """
+
     # Importing square root function
     from math import sqrt
     
